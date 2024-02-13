@@ -37,3 +37,21 @@ tempConverter:
 webCrawler:
 
         searches for links from given URL until given depth and download HTML content into an output file
+
+List:
+
+        List ADT
+
+Matrix:
+
+        Matrix ADT that uses the List ADT, does not store 0 for preformance
+
+pathFinder:
+
+        finds shortest path in a Graph using Breadth-first search
+
+SCCfinder:
+
+        finds strongly connected componnents using Depth First Search
+
+
