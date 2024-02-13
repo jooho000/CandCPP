@@ -46,11 +46,11 @@ Matrix:
 
         Matrix ADT that uses the List ADT, does not store 0 for preformance
 
-pathFinder:
+BreadthFirstSearch:
 
         finds shortest path in a Graph using Breadth-first search
 
-SCCfinder:
+DepthFirstSearch:
 
         finds strongly connected componnents using Depth First Search
 
