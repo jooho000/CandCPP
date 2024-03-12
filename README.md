@@ -54,4 +54,18 @@ DepthFirstSearch:
 
         finds strongly connected componnents using Depth First Search
 
+BigInteger:
+
+        Stores a List of long data types that can be infinitly big and is able to preform arithmetics with them
+
+List_Version2:
+
+        List ADT written in cpp
+
+WordFrequency:
+
+        has 2 Client exectuables
+        1. Order: from given file reads words and orders them alphabetically and also prints their first appearance in given output file
+        2. WordFrequency: from given file reads words and finds the frequency of each word and outputs to given output file
+
 
